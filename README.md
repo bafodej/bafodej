@@ -1,7 +1,7 @@
 # Salut ! 👋 Je suis Bafodé
 
 ## À propos de moi
-- 🎯 **Âge** : 31 ans
+- 🎯 **Âge** : Apprenti développeur en intelligence artificielle
 - 💻 **Développeur polyvalent** avec une  expérience dans plusieurs langages
 - 🚀 **🔍 RECHERCHE ALTERNANCE** en **Data Science / Intelligence Artificielle**
 - 🐍 **Spécialisation Python** : Orientation data science et machine learning
