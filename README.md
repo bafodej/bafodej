@@ -3,10 +3,9 @@
 ## À propos de moi
 - 🎯 **Apprenti développeur en intelligence artificielle** - 
 - 💻 **Développeur polyvalent** avec une  expérience dans plusieurs langages
-- 🚀 **🔍 RECHERCHE ALTERNANCE** en **Data Science / Intelligence Artificielle** pour janvier 2026
 - 🐍 **Spécialisation Python** : Orientation data science et machine learning
 - 🌟 **Passionné** par l'analyse de données et l'intelligence artificielle
-- 🎓 **Parcours** : Du développement web moderne aux systèmes legacy, maintenant orienté vers la data
+- 🎓 **Parcours** : Du développement web moderne aux systèmes legacy, maintenant orienté vers le ml la data
 
 ## 🛠️ Mes compétences techniques
 
@@ -48,7 +47,6 @@
 - **⚡ FastAPI** : Développement d'APIs performantes pour servir des modèles ML
 - **🎯 Django** : Application web complète avec interface utilisateur
 
-*→ Tous mes projets sont disponibles sur mes repositories GitHub avec documentation complète*
 
 ## 🚀 Ce que je fais actuellement
 - 🎓 **Recherche d'alternance** en Data Science / Intelligence Artificielle pour janvier 2026
@@ -61,18 +59,10 @@
 - 🎯 **Alternance** : Intégrer une entreprise pour appliquer mes compétences en data/IA
 - 📈 **Spécialisation** : Devenir expert en analyse de données et machine learning
 - 🌱 **Apprentissage** : Maîtriser les outils et frameworks de la data science moderne
-- 🤝 **Collaboration** : Travailler sur des projets data impactants
 
-## 💼 Mon parcours unique
+## 💼 Mon parcours 
 Avec une **base solide en développement** (web, C#, COBOL) et une **spécialisation en Python**, je possède une vision complète du cycle de développement. Ma capacité à naviguer entre différents environnements technologiques me permet d'aborder les projets data avec une **perspective technique approfondie**.
 
-## 🎯 Pourquoi moi pour votre alternance ?
-- ✅ **Projets concrets** : Transfer Learning, Classification, Agent IA, APIs ML
-- ✅ **Stack technique complète** : Python, FastAPI, Django, LangChain, TensorFlow
-- ✅ **Expérience diversifiée** : Développement web, langages variés, bases de données
-- ✅ **Passion démontrée** : Projets personnels en IA/ML qui prouvent ma motivation
-- ✅ **Autonomie** : Capacité à mener des projets de A à Z
-- ✅ **Maturité professionnelle** : 31 ans, sérieux et motivé
 
 ## 📊 Mes statistiques GitHub
 ![Statistiques GitHub de Bafodé](https://github-readme-stats.vercel.app/api?username=bafode&show_icons=true&theme=radical)
@@ -80,11 +70,9 @@ Avec une **base solide en développement** (web, C#, COBOL) et une **spécialisa
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=bafode&layout=compact&theme=radical)
 
 ## 🌐 Connectons-nous !
-- 💼 **Recherche alternance** Data Science / IA - Disponible pour janvier 2026
-- 💬 N'hésitez pas à me contacter pour discuter d'opportunités
-- 🤝 Ouvert aux collaborations sur des projets data
+
+
+- 🤝 Ouvert aux collaborations sur des projets machine learning / developpement d'application /data
 - 📧 Contact : bafode.jaiteh04@outlook.com
 - 💼 LinkedIn : [Bafodé Jaiteh](https://www.linkedin.com/in/bafod%C3%A9-jaiteh-87a48b195/)
 
----
-⭐ **Recruteurs** : Consultez mes projets data/IA et n'hésitez pas à me contacter pour discuter d'une alternance !
