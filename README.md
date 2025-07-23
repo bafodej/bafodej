@@ -4,7 +4,7 @@
 - 🎯 **Apprenti développeur en intelligence artificielle** - 
 - 💻 **Développeur polyvalent** avec une  expérience dans plusieurs langages
 - 🐍 **Spécialisation Python** : Orientation data science et machine learning
-- 🌟 **Passionné** par l'analyse de données et l'intelligence artificielle
+- 🌟 **découvre**  l'analyse de données et l'intelligence artificielle
 - 🎓 **Parcours** : Du développement web moderne aux systèmes legacy, maintenant orienté vers le ml la data
 
 ## 🛠️ Mes compétences techniques
@@ -38,14 +38,8 @@
 ## 🎯 Mes projets phares
 
 ### 🤖 Intelligence Artificielle & Machine Learning
-- **🔄 Transfer Learning** : Implémentation de modèles pré-entraînés pour la classification d'images
-- **📊 Projet de Classification** : Développement d'algorithmes de classification avec différents datasets
-- **🧠 Agent IA avec LangChain** : Création d'un agent conversationnel intelligent
-- **🏋️ Entraînement de modèles** : Expérience pratique avec l'entraînement de modèles ML personnalisés
 
 ### 🌐 Développement Web & APIs
-- **⚡ FastAPI** : Développement d'APIs performantes pour servir des modèles ML
-- **🎯 Django** : Application web complète avec interface utilisateur
 
 
 ## 🚀 Ce que je fais actuellement
