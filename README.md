@@ -46,12 +46,11 @@
 - 🎓 **Recherche d'alternance** en Data Science / Intelligence Artificielle pour janvier 2026
 - 🐍 **Perfectionnement Python** : Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - 📊 **Projets concrets** : Développement de solutions IA end-to-end
-- 🤖 **Approfondissement IA** : Transfer Learning, agents conversationnels, APIs ML
 - 💼 **Portfolio technique** : Enrichissement continu avec des cas d'usage réels
 
 ## 💡 Mes objectifs professionnels
 - 🎯 **Alternance** : Intégrer une entreprise pour appliquer mes compétences en data/IA
-- 📈 **Spécialisation** : Devenir expert en analyse de données et machine learning
+- 📈 **Spécialisation** : Devenir expert en python , analyse de données et machine learning
 - 🌱 **Apprentissage** : Maîtriser les outils et frameworks de la data science moderne
 
 ## 💼 Mon parcours 
