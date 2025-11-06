@@ -1,31 +1,59 @@
-# 👋 Bienvenue sur mon profil !
+# 👋 Hey, moi c'est Bafodé !
 
-En reconversion vers la Data Science et l'IA après une expérience en développement web.
-Actuellement en formation intensive (4 mois) et en recherche d'alternance/stage dès janvier 2026.
+**Développeur IA & Data Science** en formation | Passionné de tech et de sport ⚽🏀
 
-## 🛠️ Stack Technique
-
-**Data Science & ML**
-- 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow)
-- 📊 Apache Spark
-- 📦 Bases de données : SQL, MongoDB
-- ☁️ Cloud : Azure (en découverte)
-
-**Développement Web**
-- [Ajoutez vos compétences web ici]
-
-## 🎯 Ce qui me guide
-
-- 📈 Progresser par la pratique quotidienne
-- 🤝 Participer à des projets concrets
-- 🧠 Maîtriser les fondamentaux avant d'aller plus loin
-- 🌟 Rester curieux et polyvalent
-
-## 📫 Restons en contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bafod%C3%A9-jaiteh-87a48b195/)
-- 📧 bafode.jaiteh04@outlook.com
-- 🤝 Ouvert aux collaborations et échanges !
+🎯 **En recherche d'alternance dès janvier 2026**
 
 ---
-💡 *Disponible pour alternance/stage en Data Science/IA dès janvier 2026*
+
+## 🚀 Compétences
+
+**Data Science & Machine Learning**
+- 📊 Analyse et nettoyage de données (exploration, traitement des valeurs manquantes)
+- 🔄 Preprocessing & feature engineering (normalisation, encodage, transformation)
+- 🤖 Création et entraînement de modèles ML (régression, classification)
+- 📈 Visualisation de données (graphiques, tableaux de bord)
+- ⚙️ Pipeline ML automatisé et reproductible
+
+**Développement d'Applications**
+- 🚀 Création d'APIs REST (FastAPI, Flask, Django)
+- 💻 Développement backend (Python, C# .NET, COBOL)
+- 🗄️ Gestion de bases de données (SQL, MongoDB)
+- 🕷️ Web scraping et extraction de données
+
+**DevOps & MLOps**
+- 🐳 Containerisation avec Docker
+- 🔄 Orchestration de workflows (Airflow)
+- ☁️ Déploiement cloud (Azure)
+- 📦 Versioning et collaboration (Git)
+
+**Web**
+- 🌐 Intégration frontend (HTML, CSS, JavaScript, WordPress)
+
+**Méthodologie**
+- 🔄 Gestion de projet Agile/Scrum
+
+---
+
+## 🛠️ Technologies utilisées
+
+Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib • Langchain  
+FastAPI • Flask • Django • C# .NET • COBOL  
+SQL • MongoDB • Docker • Git • Airflow • Azure  
+Scrapy • Selenium • BeautifulSoup
+
+---
+
+## 💡 Mon truc
+
+Transformer les données en applications concrètes. Du mainframe COBOL au deep learning, j'aime explorer et apprendre.
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/bafodé-jaiteh-87a48b195/) • [Email](mailto:bafode.jaiteh04@outlook.com) • 📍 Nord, France
+
+---
+
+**💬 Ouvert aux collaborations et opportunités d'apprentissage !**
