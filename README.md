@@ -1,6 +1,6 @@
 # 👋 Hey, moi c'est Bafodé !
 
-**Développeur IA & Data Science** en formation | Passionné de tech et de sport ⚽🏀
+**Développeur IA & Data Science** en formation | Passionné de tech et de sport ⚽🏀🏃‍♂️
 
 🎯 **En recherche d'alternance dès janvier 2026**
 
