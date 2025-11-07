@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Compétences
+## 🚀 Compétences et technos en cours d'apprentissage 
 
 **Data Science & Machine Learning**
 - 📊 Analyse et nettoyage de données (exploration, traitement des valeurs manquantes)
