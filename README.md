@@ -1,6 +1,6 @@
 # 👋 Hey, moi c'est Bafodé !
 
-**Développeur IA & Data Science** en formation | Passionné de tech et de sport ⚽🏀🏃‍♂️
+**Développeur IA * en formation | Passionné de tech et de sport ⚽🏀🏃‍♂️
 
 🎯 **En recherche d'alternance dès janvier 2026**
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Compétences en cours d'apprentissage 
 
-**Data Science & Machine Learning**
+**Data Analyse & Machine Learning**
 - 📊 Analyse et nettoyage de données (exploration, traitement des valeurs manquantes)
 - 🔄 Preprocessing & feature engineering (normalisation, encodage, transformation)
 - 🤖 Création et entraînement de modèles ML (régression, classification)
@@ -32,6 +32,7 @@
 
 **Méthodologie**
 - 🔄 Gestion de projet Agile/Scrum
+- Certification fraichement obtenu 
 
 ---
 
