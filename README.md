@@ -45,9 +45,6 @@ Scrapy • Selenium • BeautifulSoup
 
 ---
 
-## 💡 Mon truc
-
-Transformer les données en applications concrètes. Du mainframe COBOL au deep learning, j'aime explorer et apprendre.
 
 ---
 
