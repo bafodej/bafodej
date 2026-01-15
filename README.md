@@ -42,6 +42,7 @@ Python • Scikit-learn • TensorFlow • Pandas • NumPy • Matplotlib • L
 FastAPI • Flask • Django • C# .NET • COBOL  
 SQL • MongoDB • Docker • Git • Airflow • Azure  
 Scrapy • Selenium • BeautifulSoup
+HTML . CSS . JavaScript
 
 ---
 
