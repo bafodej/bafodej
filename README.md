@@ -2,7 +2,7 @@
 
 **Développeur IA** en formation | Passionné de tech et de sport ⚽🏀🏃‍♂️
 
-🎯 **En recherche d'alternance dès janvier 2026**
+🎯 **En recherche d'alternance pour début 2026**
 
 ---
 
